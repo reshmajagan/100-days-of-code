@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [January 17, Wednesday, 2018]
 Started with the freeCodeCamp challenges. Completed the HTML5 CSS section. Link: https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers
 
 ### R1D2
+Continued with freeCodeCamp. Doing jQuery challenges now.
