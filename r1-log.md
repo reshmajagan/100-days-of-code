@@ -9,3 +9,6 @@ Started with the freeCodeCamp challenges. Completed the HTML5 CSS section. Link:
 
 ### R1D2
 Continued with freeCodeCamp. Doing jQuery challenges now.
+
+### R1D3
+Just started working on the tribute page in freeCodeCamp.
