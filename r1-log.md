@@ -12,3 +12,6 @@ Continued with freeCodeCamp. Doing jQuery challenges now.
 
 ### R1D3
 Just started working on the tribute page in freeCodeCamp.
+
+### R1D4
+Working on the tribute page in freeCodeCamp. Link: https://codepen.io/RaeElize/pen/JMwWLM
