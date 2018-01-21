@@ -15,3 +15,6 @@ Just started working on the tribute page in freeCodeCamp.
 
 ### R1D4
 Working on the tribute page in freeCodeCamp. Link: https://codepen.io/RaeElize/pen/JMwWLM
+
+### R1D5
+Completed the tribute page challenge. Link: https://codepen.io/RaeElize/full/JMwWLM/
