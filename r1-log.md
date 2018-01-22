@@ -18,3 +18,6 @@ Working on the tribute page in freeCodeCamp. Link: https://codepen.io/RaeElize/p
 
 ### R1D5
 Completed the tribute page challenge. Link: https://codepen.io/RaeElize/full/JMwWLM/
+
+### R1D6
+Started working on the Portfolio webpage in freeCodeCamp with just css, no bootstrap. Link:https://codepen.io/RaeElize/pen/KZExgb
