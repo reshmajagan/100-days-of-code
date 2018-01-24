@@ -24,3 +24,6 @@ Started working on the Portfolio webpage in freeCodeCamp with just css, no boots
 
 ### R1D7
 Working on Portfolio page, but stuck.
+
+###R1D8 
+Working on Portfolio page. Link: https://codepen.io/RaeElize/full/KZExgb/
