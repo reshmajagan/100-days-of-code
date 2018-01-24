@@ -21,3 +21,6 @@ Completed the tribute page challenge. Link: https://codepen.io/RaeElize/full/JMw
 
 ### R1D6
 Started working on the Portfolio webpage in freeCodeCamp with just css, no bootstrap. Link:https://codepen.io/RaeElize/pen/KZExgb
+
+### R1D7
+Working on Portfolio page, but stuck.
