@@ -5,7 +5,8 @@ The log of my #100DaysOfCode challenge. Started on [January 17, Wednesday, 2018]
 ## Log
 
 ### R1D1 
-Started with the freeCodeCamp challenges. Completed the HTML5 CSS section. Link: https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers
+Started with the freeCodeCamp challenges. Completed the HTML5 CSS section. 
+**Link**: https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers
 
 ### R1D2
 Continued with freeCodeCamp. Doing jQuery challenges now.
@@ -14,19 +15,23 @@ Continued with freeCodeCamp. Doing jQuery challenges now.
 Just started working on the tribute page in freeCodeCamp.
 
 ### R1D4
-Working on the tribute page in freeCodeCamp. Link: https://codepen.io/RaeElize/pen/JMwWLM
+Working on the tribute page in freeCodeCamp. 
+**Link**: https://codepen.io/RaeElize/pen/JMwWLM
 
 ### R1D5
-Completed the tribute page challenge. Link: https://codepen.io/RaeElize/full/JMwWLM/
+Completed the tribute page challenge. 
+**Link**: https://codepen.io/RaeElize/full/JMwWLM/
 
 ### R1D6
-Started working on the Portfolio webpage in freeCodeCamp with just css, no bootstrap. Link:https://codepen.io/RaeElize/pen/KZExgb
+Started working on the Portfolio webpage in freeCodeCamp with just css, no bootstrap. 
+**Link** :https://codepen.io/RaeElize/pen/KZExgb
 
 ### R1D7
 Working on Portfolio page, but stuck.
 
 ### R1D8 
-Working on Portfolio page. Link: https://codepen.io/RaeElize/full/KZExgb/
+Working on Portfolio page. 
+**Link**: https://codepen.io/RaeElize/full/KZExgb/
 
 ### R1D9
 Working on Portfolio page.
@@ -38,7 +43,8 @@ Looked through some javascript tutorials; did not have access to a Computer.
 Looked through some javascript tutorials; did not have access to a Computer.
 
 ### R1D12
-Missed a day on Jan 28th Sunday.
+Missed a day on January 28th Sunday.
 
 ### R1D13
 Working on portfolio page. Stuck on handling textarea and DOM elements.
+**Link**: https://codepen.io/RaeElize/pen/KZExgb
