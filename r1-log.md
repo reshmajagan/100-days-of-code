@@ -30,3 +30,15 @@ Working on Portfolio page. Link: https://codepen.io/RaeElize/full/KZExgb/
 
 ### R1D9
 Working on Portfolio page.
+
+### R1D10
+Looked through some javascript tutorials; did not have access to a Computer.
+
+### R1D11
+Looked through some javascript tutorials; did not have access to a Computer.
+
+### R1D12
+Missed a day on Jan 28th Sunday.
+
+### R1D13
+Working on portfolio page. Stuck on handling textarea and DOM elements.
